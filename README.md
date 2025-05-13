@@ -1,2 +1,2 @@
 # Chicago-Crime-Data-2023
-Project to showcase the data on crime rates in Chicago in 2023
+University project that observed the crime rate types and areas highlights in Chicago, Illinois.
